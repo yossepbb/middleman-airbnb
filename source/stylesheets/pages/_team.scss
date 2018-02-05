@@ -26,8 +26,15 @@
     font-weight: bold;
     letter-spacing: -0.5px;
     font-size: 15px;
+    text-decoration: none;
   }
   .fa-heart {
     color: #D23333;
   }
+
+  a:hover{
+
+    color: #e43a19;
+  }
 }
+
